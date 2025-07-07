@@ -17,5 +17,4 @@ This project was developed to explore and demonstrate a range of skills in game 
 
 * Unity Engine
 * C#
-* (Add any other tools you used, e.g., Blender, Photoshop, etc.)
 * **Deployment:** HTML5, CSS3, JavaScript (via Unity WebGL build)
