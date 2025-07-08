@@ -1,6 +1,6 @@
 # Unity Project: Made in Tokyo 🇯🇵
 
-### 🚧 Live WebGL Demo (Deployment In Progress) 🚧
+### [ Live WebGL Demo 🥏](https://bilbanzania.github.io/Study-Abroad-Unity-Project_WebGL/)
 
 A 3D game/experience developed using the Unity Engine. This project was created as part of a study abroad program at Waseda University in Tokyo, Japan, and serves as a key portfolio piece connecting game development principles with full-stack web development skills.
 
